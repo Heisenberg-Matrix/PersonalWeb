@@ -10,8 +10,9 @@
 <center><h2>最新文章</h2></center>
 
 <div style="text-align: center;line-height: 1;">
-  <a href="Honkit.md">Git+Honkit打造个人网站工作流</a><br>
+  <a href="geek/Honkit.html">Git+Honkit打造个人网站工作流</a><br>
 </div>
+
 
 <center><h2>关于我</h2></center>
 
