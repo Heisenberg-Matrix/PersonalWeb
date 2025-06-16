@@ -1,5 +1,36 @@
 
 
+**分支相关**
+
+* git branch：创建新分支
+
+* git checkout：切换分支
+  * git checkout -b（branch）：创建并切换到新分支
+
+**提交相关**
+
+* git add：暂存区
+
+* git commit：
+
+
+
+* git merge：合并分支
+
+git rebase
+
+git fetch
+
+git reset
+
+
+
+git clone
+
+git pull
+
+
+
 ## 远程拉本地（覆盖）
 
 完全丢弃本地的更改，并将远程仓库的内容强制拉取到本地，可以使用以下命令：
@@ -36,4 +67,26 @@ git reset --hard origin/main
 ```
 git push origin main --force
 ```
+
+
+
+
+
+
+
+
+
+## 命令介绍
+
+git fetch
+
+
+
+git rebase
+
+
+
+git merge
+
+
 

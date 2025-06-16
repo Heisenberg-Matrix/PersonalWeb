@@ -6,6 +6,7 @@
 
 * [VXLAN](NetworkBasi/vxlan.md)
 * [DNS pro](NetworkBasi/DNS-pro.md)
+* [交换机转发底层原理](NetworkBasi/how_switch_work.md)
 
 ## 折腾日记
 
