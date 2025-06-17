@@ -74,6 +74,30 @@ git push origin main --force
 
 
 
+## 初始化+同步远程仓库
+
+远程：终端SSH加白，利用ssh方式连接URL
+
+git init
+
+测试与github的连接：
+
+```
+ssh -T git@github.com
+```
+
+关联远程仓库：
+
+```
+git remote add origin git@github.com:yourusername/your-repo.git
+```
+
+
+
+
+
+
+
 
 
 ## 命令介绍
