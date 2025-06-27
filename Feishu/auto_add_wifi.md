@@ -1,4 +1,26 @@
-# 飞书审批事件+自动化
+浅谈企业IT信息系统交互
+
+
+
+网络管理员一般会有常见的重复工作，比如：
+
+* 
+
+
+
+
+
+<img src="D:\GitBook\Feishu\auto_add_wifi.assets\image-20250627182458338.png" alt="image-20250627182458338" style="zoom:50%;" />
+
+
+
+<img src="D:\GitBook\Feishu\auto_add_wifi.assets\image-20250627182048331.png" alt="image-20250627182048331" style="zoom:50%;" />
+
+
+
+
+
+
 
 > 在企业中，这样的需求十分常见：审批流程结束后，**触发一个自动化动作**，比如修改某个系统的数据库记录，自动设置提醒事项等等。这能较大地提升工作效率，减少人力重复劳动。
 >
