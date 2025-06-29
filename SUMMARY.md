@@ -18,7 +18,7 @@
 
 * [封装精细化流量监控](Monito/hillstone_exporter.md)
 
-* [飞书审批+自动化：思考企业信息系统交互](Feishu/auto_add_wifi.md)
+* [浅谈企业IT信息系统交互](Feishu/auto_add_wifi.md)
 
 ## 杂谈
 
